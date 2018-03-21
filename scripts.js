@@ -23,8 +23,10 @@ console.log(mcjsTextContent);
 var splitMCJS = mcjsTextContent.split("/");
 console.log(splitMCJS);
 alert("Hashed UID: " + splitMCJS[6]);
-var decodedUID = atob(splitMCJS);
-alert(decodedUID);
+
+
+//var decodedUID = atob(splitMCJS);
+//alert(decodedUID);
 
 
 
