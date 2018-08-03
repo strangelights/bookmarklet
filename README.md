@@ -1,9 +1,9 @@
 # bookmarklet
-// ScriptChecker Bookmarklet is a utility that exposes any MailChimp-specific technologies used on websites. 
-// It detects Connected Sites "mcjs" code, popup forms, embededd forms, and clears cookies for the local page it is executed on
-// Save the script code as a browser bookmark. In Chrome, ⌥ (Option) + ⌘ (Command) + B to create a new bookmark.
+## ScriptChecker Bookmarklet is a utility that exposes any MailChimp-specific technologies used on websites. 
+## It detects Connected Sites "mcjs" code, popup forms, embededd forms, and clears cookies for the local page it is executed on
+### Save the script code as a browser bookmark. In Chrome, ⌥ (Option) + ⌘ (Command) + B to create a new bookmark.
 
-Connected Sites / Form Bookmarklet v1.6</h2>
+# Connected Sites / Form Bookmarklet v1.6<
 
 	<h5>Versioning:</h5>
 	<ul>
