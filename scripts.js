@@ -25,32 +25,6 @@ console.log(splitMCJS);
 alert("Hashed UID: " + splitMCJS[6]);
 
 
-//var decodedUID = atob(splitMCJS);
-//alert(decodedUID);
-
-
-
-/* junk code below
-
-var user_id_real = x.match(/[0-9]/);
-console.log(user_id_real);
-
-var str = y;
-var uID = str.string.split();
-console.log(uID);
-
-var user_id = x.match(/\/219ec3282ae742b42f62a07e8\//); // trying to figure out a regexp to grab that hashed uid and return to tack onto the csAlert
-console.log(user_id);
-alert("user id: " + user_id); 
-
-//var s = 'xx/ab/xx'
-var r = user_id.split('/')[1];
-alert(r);
-//=> ab
-
-*/
-
-
 //-----------Embedded Script-----------
 
 var a = document.body.innerHTML;
