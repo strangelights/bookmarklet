@@ -6,11 +6,11 @@
 Versioning:
 	
 	
-		* 1.6 - Added hashed UID callout
-		* 1.5 - Added ability to clear browser cookies for current page
-		* 1.4 - Added MC popup form search utility
-		* 1.3 - Added MC embed form search utility
-		* 1.2 - General script improvements
-		* 1.1 - MCJS Utility search improvments
-		* 1.0 - Added MCJS script search utility
+		 1.6 - Added hashed UID callout
+		 1.5 - Added ability to clear browser cookies for current page
+		 1.4 - Added MC popup form search utility
+		 1.3 - Added MC embed form search utility
+		 1.2 - General script improvements
+		 1.1 - MCJS Utility search improvments
+		 1.0 - Added MCJS script search utility
 	
